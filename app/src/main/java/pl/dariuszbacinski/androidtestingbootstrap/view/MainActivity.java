@@ -1,7 +1,9 @@
-package pl.dariuszbacinski.androidtestingbootstrap;
+package pl.dariuszbacinski.androidtestingbootstrap.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import pl.dariuszbacinski.androidtestingbootstrap.R;
 
 public class MainActivity extends AppCompatActivity {
 
